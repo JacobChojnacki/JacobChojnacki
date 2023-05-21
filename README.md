@@ -1,5 +1,6 @@
 # 💫 About Me:
-Wrocław University of Science and Technology, <br>Faculty of Fundamental Problems of Technology, <br>Trusted Artificial Intelligence
+Wrocław University of Science and Technology, <br>Faculty of Fundamental Problems of Technology, <br>Faculty of Information and Communication Technology
+<br>Trusted Artificial Intelligence, <br>Biomedical Informatic
 
 
 ## 🌐 Socials:
